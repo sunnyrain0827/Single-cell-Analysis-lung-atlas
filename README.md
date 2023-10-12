@@ -4,7 +4,6 @@ I tried to recreate the single cell analysis pipeling from a Nature publication 
 
 This involved various steps, including doublet removal, preprocessing, integration, clustering, cell identification, and differential expression analysis in Python.
 
-- This pipeline is still under developing.
 
 ### Dataset:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171524
